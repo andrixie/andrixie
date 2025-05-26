@@ -17,8 +17,6 @@ Welcome to my GitHub! I’m a Communication Engineering student at Carleton Univ
 ---
 
 ## 📫 Let’s Connect!
-- [GitHub](https://github.com/andrixie)
-- [LinkedIn](#) <!-- Update with your actual profile URL -->
 - 📧 andreataguinod@cmail.carleton.ca
 
 Thanks for visiting!
