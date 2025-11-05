@@ -1,7 +1,7 @@
 
 `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` 
 
-# Heya!, I'm Andrixie ☆
+# Heya!, I'm Andrea! ☆
 
 I'm a Communication Engineering student with a quiet but persistent passion for learning and growing in my field.  
 Even when the spark feels dim, I still find myself drawn to signals, systems, and the elegance of communication theory.
