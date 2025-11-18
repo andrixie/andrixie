@@ -1,5 +1,5 @@
 
-`♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` 
+`♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆` `♡ ⋆｡˚ 𓇼 ˚｡⋆``♡ ⋆｡˚ 𓇼 ˚｡⋆`
 
 # Heya!, I'm Andrea! ☆
 
@@ -12,7 +12,7 @@ Even when the spark feels dim, I still find myself drawn to signals, systems, an
 
 - Wireless Systems  
 - Signal Processing in MATLAB & Python  
-- Antennas, RF Design, Electromagnetic Simulations   
+- Antennas, RF Design, Electromagnetic Simulations, Communication System
 - Low-level networking and packet analysis
 
 ---
@@ -22,6 +22,8 @@ Even when the spark feels dim, I still find myself drawn to signals, systems, an
 - Building a network packet sniffer in C  
 - Acoustic Digital Messaging (Signal Processing)
 - Video streaming system using RTSP & RTP enabling frame-sync GIF playback
+- Implemented a secure user registration system by hashing passwords with bcrypt
+- Using SDN and Segment Routing for congestion control via Mininet and the POX or RYU controller
 
 ---
 
