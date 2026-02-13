@@ -1,18 +1,19 @@
 # 👋 Hello there, I'm Andrea Taguinod
 
-<img align="right" alt="EM wave animation" width="180" src="em-wave.gif">  <!-- EM wave animation source: Wikimedia Commons -->
+
+<img align="right" alt="EM wave animation" width="180" src="EM-Wave.gif"> <!-- EM wave animation source: Wikimedia Commons -->
 
 Communication Engineering student at Carleton University.  
 Focused on wireless communications, signal processing, network systems, and SDN.
+<br>
+Passionate about developing efficient network protocols, simulating wireless channel behavior, and implementing software-defined networking solutions.  
+Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experience in OFDM, BPSK, and congestion control algorithms.
 
 ![](https://komarev.com/ghpvc/?username=andrixie&color=0e75b6)
-
 <br clear="right"/>
 
 ---
-
 ## Languages
-
 <div style="display: flex; flex-wrap: wrap; gap: 2px;">
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -28,8 +29,7 @@ Focused on wireless communications, signal processing, network systems, and SDN.
 </div>
 
 ---
-
-## 📂 Selected Projects
+## Selected Projects
 
 - **SDN Congestion Control** – Python, Mininet, Ryu  
   Prototype for SDN-based congestion management with routing optimization.
@@ -52,12 +52,11 @@ Focused on wireless communications, signal processing, network systems, and SDN.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrixie&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
 ## Concentration
 
 **Concentration:** Communication Engineering – Wireless Communications (channel modeling, fading, multipath propagation, MIMO, modulation techniques such as OFDM, QAM, BPSK), Signal Processing (filter design, adaptive equalization, FFT, noise mitigation, interference cancellation), Network Systems (SDN, congestion control, routing optimization), and SDN applications for modern wireless networks.
 
-## 📬 Contact 
+## Contact 
 
 **Email:** [andreataguinod@cmail.carleton.ca](mailto:andreataguinod@cmail.carleton.ca)  
 **LinkedIn:** [https://ca.linkedin.com/in/andrea-taguinod](https://ca.linkedin.com/in/andrea-taguinod)  
