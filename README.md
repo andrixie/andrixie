@@ -1,9 +1,13 @@
 # 👋 Hello there, I'm Andrea Taguinod
 
+<img align="right" alt="EM wave animation" width="180" src="em-wave.gif">  <!-- EM wave animation source: Wikimedia Commons -->
+
 Communication Engineering student at Carleton University.  
 Focused on wireless communications, signal processing, network systems, and SDN.
 
 ![](https://komarev.com/ghpvc/?username=andrixie&color=0e75b6)
+
+<br clear="right"/>
 
 ---
 
