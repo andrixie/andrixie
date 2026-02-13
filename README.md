@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Andrea Taguinod
+# 👋 Hello there, I'm Andrea Taguinod
 
 Communication Engineering student at Carleton University.  
 Focused on wireless communications, signal processing, network systems, and SDN.
@@ -7,7 +7,7 @@ Focused on wireless communications, signal processing, network systems, and SDN.
 
 ---
 
-## When I code, I rely on
+## Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 2px;">
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -49,7 +49,7 @@ Focused on wireless communications, signal processing, network systems, and SDN.
 
 ---
 
-##Concentration
+## Concentration
 
 **Concentration:** Communication Engineering – Wireless Communications (channel modeling, fading, multipath propagation, MIMO, modulation techniques such as OFDM, QAM, BPSK), Signal Processing (filter design, adaptive equalization, FFT, noise mitigation, interference cancellation), Network Systems (SDN, congestion control, routing optimization), and SDN applications for modern wireless networks.
 
