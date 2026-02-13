@@ -9,7 +9,7 @@ Focused on wireless communications, signal processing, network systems, and SDN.
 Passionate about developing efficient network protocols, simulating wireless channel behavior, and implementing software-defined networking solutions.  
 Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experience in OFDM, BPSK, and congestion control algorithms.
 
-![](https://komarev.com/ghpvc/?username=andrixie&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=andrixie&color=ff000)
 <br clear="right"/>
 
 ---
