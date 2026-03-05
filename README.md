@@ -46,6 +46,8 @@ Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experi
 - **Network Packet Sniffer** – C  
   Live packet capture and filtering with advanced socket programming.
 
+- **Signal Process Model** – Python 
+  Built a Python-based pipeline for audio signal classification.
 ---
 ### My GitHub contributions summary
 
