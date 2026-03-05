@@ -31,23 +31,23 @@ Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experi
 ---
 ## Selected Projects
 
-- **SDN Congestion Control** – Python, Mininet, Ryu  
-  Prototype for SDN-based congestion management with routing optimization.
+- **Acoustic Digital Messaging** – *MATLAB, BPSK*  
+  Audio-based digital communication system that transmits messages using BPSK modulation.
 
-- **Wireless Channel Propagation Modeling** – MATLAB  
-  Simulated path loss and signal attenuation in wireless networks.
+- **SDN Congestion Control** – *Python, Mininet, Ryu*  
+  Prototype implementation of software-defined network congestion management with routing optimization.
 
-- **Multipath Interference Mitigation** – Python, OFDM  
-  Adaptive equalization and OFDM implementation for improved bit error rate.
+- **Wireless Channel Propagation Modeling** – *MATLAB*  
+  Simulation of wireless channel path loss and signal attenuation to study propagation effects in communication systems.
 
-- **Acoustic Digital Messaging** – MATLAB, BPSK  
-  Audio transmission system for digital messages using BPSK.
+- **Multipath Interference Mitigation** – *Python, OFDM*  
+  Implementation of adaptive equalization with OFDM techniques to mitigate multipath interference and improve bit error rate.
 
-- **Network Packet Sniffer** – C  
-  Live packet capture and filtering with advanced socket programming.
+- **Network Packet Sniffer** – *C*  
+  Tool for live network traffic capture and packet filtering using low-level socket programming.
 
-- **Signal Process Model** - Python 
-  Built a Python-based pipeline for audio signal classification.
+- **Audio Signal Classification Model** – *Python*  
+  Python pipeline for audio signal classification, including data preprocessing, model training, and evaluation using environmental sound datasets.
 ---
 ### My GitHub contributions summary
 
