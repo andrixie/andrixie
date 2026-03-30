@@ -7,7 +7,7 @@ Communication Engineering student at Carleton University.
 Focused on wireless communications, signal processing, network systems, and SDN.
 <br>
 Passionate about developing efficient network protocols, simulating wireless channel behavior, and implementing software-defined networking solutions.  
-Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experience in OFDM, BPSK, and congestion control algorithms.
+Skilled in Python, MATLAB, C, and network simulation tools, with hands-on experience in BPSK,QAM,OFDM and congestion control algorithms such as Segment Routing, MPLS etc.
 
 ![](https://komarev.com/ghpvc/?username=andrixie&color=16a34a&v=1)
 <br clear="right"/>
